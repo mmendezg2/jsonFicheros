@@ -1,0 +1,11 @@
+{
+  "ficheros": [
+    { "idfiche": "1", "descripcionFich": "El procesador y definiciones básicas", "14/05/2010": "Sistemas operativos", "url": "https://riunet.upv.es/bitstream/handle/10251/10673/El_procesador.pdf"},
+    { "idfiche": "2", "descripcionFich": "La necesidad de un software de gestión integral (ERP)", "02/07/2006": "Comercio electrónico", "url": "http://www.gcd.udc.es/subido/catedra/presentaciones/economia_competencia_ii/nota_tecnica_sistemas_de_gestion_erp_carlos_suarez_rey_17-03-2010.pdf"},
+    { "idfiche": "3", "descripcionFich": "El comercio electrónico y conceptos básicos", "13/02/2015": "Comercio electrónico", "url": "https://www.eumed.net/ce/2012/tcgz.pdf"},
+    { "idfiche": "4", "descripcionFich": "Introducción a las aplicaciones distribuidas", "20/04/2018": "Aplicaciones distribuidas", "url": "https://www.infor.uva.es/~cllamas/sd/Liu-c1.pdf"},
+    { "idfiche": "5", "descripcionFich": "Conceptos básicos sobre las aplicaciones móvil y los tipos de lenguajes que existen", "07/06/2017": "Aplicaciones móviles", "url": "http://repositorio.upsin.edu.mx/Fragmentos/Capitulo2TESINAcap2172.pdf"},
+    { "idfiche": "6", "descripcionFich": "Temas básicos sobre los medio de transmisión", "30/01/2007": "Medios de transmisión", "url": "http://serbal.pntic.mec.es/srug0007/archivos/radiocomunicaciones/5%20MEDIOS%20DE%20TRANSMISION/APUNTES%20MEDIOS%20DE%20TRANSMISI%D3N.pdf"}
+    
+  ]
+}
